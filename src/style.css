@@ -6,10 +6,10 @@
 .jumbotron {
   height: 620px;
   width: 100%;
-  background-image: url("assets/images/morningwork.jpg");
-  background-size: cover;
+  /* background-image: url("assets/images/morningwork.jpg"); */
+  /* background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center; */
   border-radius: 0;
   color: $white;
   margin-bottom: 0;
