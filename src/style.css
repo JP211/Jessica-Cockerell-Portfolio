@@ -243,7 +243,7 @@ figure {
   height: 100%;
 }
 #fixed {
-  background-image: url('img/mac.png');
+  background-image: url('assets/images/marb.jpg');
   position: fixed;
   display: block;
   top: 0;
