@@ -8,7 +8,7 @@ html, body {
 }
 
 .navbar {
-  padding: .8rem;
+  padding: .1rem;
 }
 
 .navbar-nav li {
@@ -17,6 +17,11 @@ html, body {
 
 .nav-link {
   font-size: 1.1em !important;
+}
+
+#logo {
+  height: 125px;
+  width: auto;
 }
 
 .carousel-inner img {
